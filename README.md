@@ -13,7 +13,7 @@ I also built a model to try and predict whether or not a movie a movie would be 
 
 This was one of my first data analysis and machine learning projects, so some details were not fully fleshed out. Were I to return to this project, I would focus a lot more on tuning my model hyperparameters to achieve better results. However, I am satisfied with my results for now. I edited and updated some of the visuals and the code for better readability, but the analysis, for the most part, remains the same.
 
-I extracted the most notable findings from this analysis and have summarized them here - for a more in-depth analysis, please take a look at the [.ipynb file](Analyzing_IMDb_top_250.ipynb).
+I extracted the most notable findings from this analysis and have summarized them here - for a more in-depth analysis, please take a look at the [.ipynb file](Analyzing_Predicting_IMDb_top250.ipynb).
 
 ## Dataset
 https://www.kaggle.com/datasets/mustafacicek/imdb-top-250-lists-1996-2020
