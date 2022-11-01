@@ -49,7 +49,7 @@ There are 6250 rows (25 years of top 250 movies) and 16 features:
 First I examined overall statistics regarding the data which would help inform and guide the analysis:
 <p align="center">
     <img src="images\nunique_data.PNG" height="300"><br>
-    <img src="images\describe_data.PNG" height="275"><br>
+    <img src="images\describe_data.png" height="275"><br>
     <em>Descriptive statistics about the numeric columns</em>
 </p>
 <br>
